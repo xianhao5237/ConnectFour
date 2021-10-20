@@ -1,0 +1,11 @@
+Instructions
+This game is played by 2 players. Player 1 (RED) will go first by choosing
+the column they would like to place their chip in by clicking on the button 
+above the column. Their chip will then fall down to the lowest unoccupied 
+space in that column. Then player 2 (YELLOW) will choose the column to 
+place their chip in. They will continue to take turns until one player wins.
+				
+A player wins by connecting 4 or more of their pieces in a row horizontally, 
+vertically, or diagonally in any way. When a player wins a message will pop 
+up declaring they won. Then you can click on the reset button at the bottom 
+of the window to reset the board and play again.
